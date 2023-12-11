@@ -2,11 +2,11 @@
 #### Learning Newcomer Neveloper
 ![Learning Newcomer Neveloper](https://Rubenzitoh21.github.io/github-profile-readme-generator/images/banner.png)
 
-A learning newcomer backend developer from Portugal, who is trying to learn a bit of frontend
+A learning newcomer backend developer from Portugal, who is trying to learn a bit of frontend aswell.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Instituto Politécnico Leiria (TESP-PSI) 
+- 🔭 I’m currently studying on Instituto Politécnico Leiria (TESP-PSI) 
 - 🌱 I’m currently learning Mostly C#C++ and then wanna learn Java. 
 - 📫 How to reach me: rubenricardoamaral@hotmail.com 
 
