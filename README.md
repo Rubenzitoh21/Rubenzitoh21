@@ -1,8 +1,8 @@
-### Hi there 👋, Hi 👋, I'm Rúben Amaral
-#### Learning Newcomer Neveloper
-![Learning Newcomer Neveloper](https://Rubenzitoh21.github.io/github-profile-readme-generator/images/banner.png)
+### Hi 👋, I'm Rúben Amaral
+#### Newbie learning developer
+![Learning Newcomer Developer](https://media.licdn.com/dms/image/D4D16AQFVh7k2hebhig/profile-displaybackgroundimage-shrink_350_1400/0/1696423353434?e=1707955200&v=beta&t=c-61tPqORTT7vE4L7Fvjx1YMceT1-yT-fc_4h65sR2M)
 
-A learning newcomer backend developer from Portugal, who is trying to learn a bit of frontend aswell.
+A learning newcomer backend developer from Portugal, who is trying to learn a bit of frontend after feeling confortable with mostly of the backend Tech.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
