@@ -1,6 +1,6 @@
 
 ### Hi 👋, I'm Rúben Amaral
-## junior developer
+## Junior developer
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rr-amaral27/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rubenricardoamaral@hotmail.com)
 
