@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Rúben Amaral
 #### Newbie learning developer
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/murillo-comino-6124ab49/](https://www.linkedin.com/in/rr-amaral27/))
 
 
 A learning newcomer backend developer from Portugal, who is trying to learn a bit of frontend after feeling confortable with mostly of the backend Tech.
@@ -10,6 +11,7 @@ A learning newcomer backend developer from Portugal, who is trying to learn a bi
 - 🔭 I’m currently studying on Instituto Politécnico Leiria (TESP-PSI) 
 - 🌱 I’m currently learning Java for Mobile (Android Studio)
 - 📫 How to reach me: rubenricardoamaral@hotmail.com 
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rubenzitoh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
