@@ -1,9 +1,9 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rr-amaral27/)
-### Hi 👋, I'm Rúben Amaral
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+### Hi 👋, I'm Rúben Amaral
+## A newbie learning developer
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rr-amaral27/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:rubenricardoamaral@hotmail.com)
+
 
 
 A learning newcomer backend developer from Portugal, who is trying to learn a bit of frontend after feeling confortable with mostly of the backend Tech.
@@ -15,6 +15,17 @@ A learning newcomer backend developer from Portugal, who is trying to learn a bi
 - 🌱 I’m currently learning Java for Mobile (Android Studio)
 - 📫 How to reach me: rubenricardoamaral@hotmail.com 
 
+
+<details>
+  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rubenzitoh21&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenzitoh21&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rubenzitoh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
