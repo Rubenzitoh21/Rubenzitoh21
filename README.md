@@ -15,9 +15,6 @@ A learning newcomer backend developer from Portugal, who is trying to learn a bi
 - 🌱 I’m currently learning Java for Mobile (Android Studio)
 - 📫 How to reach me: rubenricardoamaral@hotmail.com 
 
-
-</details>
-
 <details>
   <summary><b>:gear: &nbsp; GitHub Stats</b></summary>
   <br/>
