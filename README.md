@@ -16,22 +16,15 @@ A learning newcomer backend developer from Portugal, who is trying to learn a bi
 - 📫 How to reach me: rubenricardoamaral@hotmail.com 
 
 
-<details>
-  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
-  <br/>
-    <p align="center">
-        <img height="137px" src="[https://github-readme-streak-stats.herokuapp.com/?user=brunotacca&hide_border=true&theme=nightowl](https://github-readme-stats.vercel.app/api?username=Rubenzitoh21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)" />
-    </p>
-    <p align="center">
-        <img height="137px" src="[https://github-readme-stats.vercel.app/api?username=Rubenzitoh21&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl"](https://github-contributor-stats.vercel.app/api?username=Rubenzitoh21&limit=5&theme=dark&combine_all_yearly_contributions=true) /> <img height="137px" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenzitoh21&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl](https://visitcount.itsvg.in/api?id=Rubenzitoh21&icon=0&color=0)](https://visitcount.itsvg.in)" />
-    </p>
 </details>
 
-# 📊 GitHub Stats:
-![]()<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rubenzitoh21&theme=dark&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
-![]()
-
-[![](https://visitcount.itsvg.in/api?id=Rubenzitoh21&icon=0&color=0)](https://visitcount.itsvg.in)
+<details>
+  <summary><b>:gear: &nbsp; GitHub Stats</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubenzitoh21&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Rubenzitoh21&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rubenzitoh21&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
