@@ -1,6 +1,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rr-amaral27/)
 ### Hi 👋, I'm Rúben Amaral
-#### Newbie learning developer
+
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
+
 
 A learning newcomer backend developer from Portugal, who is trying to learn a bit of frontend after feeling confortable with mostly of the backend Tech.
 
